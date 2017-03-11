@@ -1,0 +1,30 @@
+{
+  "name": "user-class-oop",
+  "version": "1.0.0",
+  "description": "User class implementation",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incometrader/bootcamp20-oopuserclass.git"
+  },
+  "keywords": [
+    "oop",
+    "class",
+    "user"
+  ],
+  "author": "Ignatius Ukwuoma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/incometrader/bootcamp20-oopuserclass/issues"
+  },
+  "homepage": "https://github.com/incometrader/bootcamp20-oopuserclass#readme",
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "eslint-config-airbnb-base": "^11.1.1",
+    "eslint-plugin-import": "^2.2.0",
+    "jasmine": "^2.5.3"
+  }
+}
