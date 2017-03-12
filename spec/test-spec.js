@@ -1,5 +1,5 @@
-const User = require('../app.js');
-const PremiumUser = require('../app.js');
+const User = require('../code/user.js');
+const PremiumUser = require('../code/premium.js');
 
 (function(){
   "use strict";
