@@ -1,3 +1,4 @@
+const User = require('../app.js');
 
 (function(){
   "use strict";
