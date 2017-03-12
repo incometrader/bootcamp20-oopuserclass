@@ -2,7 +2,7 @@
   "name": "user-class-oop",
   "version": "1.0.0",
   "description": "User class implementation",
-  "main": "app.js",
+  "main": "code/user.js",
   "scripts": {
     "test": "jasmine"
   },
